@@ -1,6 +1,7 @@
-<<<<<<< HEAD
+
 "# My First Repo" 
-=======
-ECHO is on.
->>>>>>> 0388e42 (Added README)
-"change from main branch" 
+
+change from main branch
+change from conflict branch 
+
+"wrong line" 
